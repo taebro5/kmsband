@@ -600,11 +600,11 @@ svg use {
 }
 
 .icon-kakao {
-	width:100px;
+	width:90px;
 	position:fixed;
 	z-index:9999;
 	right:20px;
-	bottom:20px;
+	bottom:40px;
 	/*box-shadow: 3px 3px 5px rgba(0,0,0,0.5);
 	-webkit-box-shadow: 3px 3px 5px rgba(0,0,0,0.5);*/
 }
