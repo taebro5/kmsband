@@ -1,3 +1,3 @@
 function goKakaotalk() {
-    location.href = "https://han.gl/GzNIa";
+    location.href = "https://han.gl/lNIWc";
 }
